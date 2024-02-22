@@ -1,0 +1,23 @@
+steps to do:
+
+create repository in github
+
+open window powershell
+
+type-git
+type-ls
+type-git clone and copy path
+type-cd .\xxx\
+type-ls
+type-code.(open vs code and create project under repository name)
+type-ls
+git add .\xxx.py
+git status
+git commit - m "any message"
+git status
+git push ---> it push into the host repository
+git pull ---> it pull from the host repository
+git branch
+git checkout - b "new _ file name"
+git checkout (name)
+git merge
